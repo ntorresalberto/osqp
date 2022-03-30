@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>osqp</name>
+  <version>0.0.1</version>
+  <description>The OSQP package</description>
+
+  <maintainer email="yvaind@ethz.ch">Yvain de Viragh</maintainer>
+  <author email="yvaind@ethz.ch">Yvain de Viragh</author>
+
+  <license>Apache 2.0</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
